@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HSPA_Server.props" />
+</Project>
